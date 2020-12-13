@@ -1,0 +1,85 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    width: 1400px ;
+    margin: 40px auto;
+    background-color: rgba(222, 184, 135, 0.192)}
+
+header{
+        font-weight: bold;
+        text-shadow: 4px 4px rgb(221, 221, 221);
+        text-align: center;
+        border-bottom: 1px solid black;
+}
+
+p{
+    font-size: 18px;
+
+}
+
+nav{
+    display: inline-block;
+    width: 600px;
+    margin: 20px auto;
+    padding: 16px;
+    vertical-align: top;
+    font-size: 25px;
+    
+}
+
+aside{
+    display: inline-block;
+    width: 600px;
+    margin: 20px auto;
+    padding: 16px;
+    padding-left: 100px;
+    
+}
+
+footer{
+    padding: 16px 0 16px 0;
+    border-top: 1px solid black;
+    text-align: center;
+    margin-top: 350px;
+}
+
+#university{
+    width: 1400px;
+}
+
+#pupin-1916{
+    width: 300px;
+}
+
+table{
+    display:table;
+    border-collapse: collapse;
+    border-spacing: 2px;
+    width: 100%;
+}
+
+#heading{
+    text-transform: uppercase;
+    text-align: center;
+    background-color: #7766479a;
+    color: white;
+}
+
+th{
+    padding: 15px;
+}
+
+td{
+    padding: 12px;
+}
+
+th, td{
+    border: solid 2px #000000;
+}
+
+tr{
+    background-color: #e6e6e6;
+}
+
